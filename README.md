@@ -4,11 +4,6 @@
 **Data Analyst | Business Intelligence Professional**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/akashappari/)
-
-<p align="center">
-    <img src="https://github.com/meabhaykr/Financial-Insights-in-Banking-Data-using-PowerBI/blob/main/Banner.jpg" alt="Banking Analytics Banner">
-</p>
-
 ---
 
 ## 📊 Project Overview
