@@ -604,7 +604,6 @@ Financial-Insights-in-Banking-Data-using-PowerBI/
 **1. Download Project Files**
 ```
 Access all project files from the repository
-or via Google Drive: https://drive.google.com/drive/folders/12JehfBqbzBIicYZ1lYkcQi65iE3BKKoH?usp=sharing
 ```
 
 **2. Open Power BI File**
@@ -742,8 +741,8 @@ or via Google Drive: https://drive.google.com/drive/folders/12JehfBqbzBIicYZ1lYk
 Data Analyst | Business Intelligence Professional
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashappari/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashappari@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashappari)
 
 ---
 
